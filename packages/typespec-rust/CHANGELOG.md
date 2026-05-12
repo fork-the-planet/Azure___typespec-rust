@@ -1,5 +1,15 @@
 # Release History
 
+## 0.41.0 (2026-05-12)
+
+### Breaking Changes
+
+* The minimum Node version has moved from `20.x` to `22.x`.
+
+### Other Changes
+
+* Updated to the latest tsp toolset.
+
 ## 0.40.1 (2026-05-06)
 
 ### Bugs Fixed
