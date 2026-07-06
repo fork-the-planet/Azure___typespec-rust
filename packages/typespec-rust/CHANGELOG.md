@@ -1,9 +1,10 @@
 # Release History
 
-## 0.41.4 (Unreleased)
+## 0.41.4 (2026-07-06)
 
 ### Other Changes
 
+- Avoided double-deserializing pager responses by using borrowed `nextLink` parsing.
 - Improve request body serialization error handling. ([#766](https://github.com/Azure/typespec-rust/issues/766))
 
 ## 0.41.3 (2026-06-17)
